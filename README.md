@@ -1,0 +1,2 @@
+# SmartGradient
+A gradient creator
